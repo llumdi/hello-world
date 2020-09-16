@@ -1,4 +1,2 @@
 # hello-world
-Training
-
-Some edits here using a testing branch
+Testing how to delete a branch
